@@ -1,5 +1,6 @@
 .Navbar {
   background-color: white;
+  border-bottom: 1px solid hsl(0, 0%, 80%);
 }
 li {
   color: black;
